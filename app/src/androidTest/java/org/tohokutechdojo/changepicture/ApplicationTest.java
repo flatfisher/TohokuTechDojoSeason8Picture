@@ -1,4 +1,4 @@
-package org.tohokutechdojo.tohokutechdojoseason8picture;
+package org.tohokutechdojo.changepicture;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

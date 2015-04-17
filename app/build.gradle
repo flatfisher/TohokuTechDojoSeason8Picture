@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "org.tohokutechdojo.tohokutechdojoseason8picture"
+        applicationId "org.tohokutechdojo.changepicture"
         minSdkVersion 14
         targetSdkVersion 22
         versionCode 1
